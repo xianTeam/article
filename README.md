@@ -1,0 +1,106 @@
+# Feed
+这里存放着笔者读过的一些优秀的文章和答案
+
+#### JavaScript
+- [Filter object properties by key in ES6](https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6)
+- [Create GUID / UUID in JavaScript?](https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript)
+- [js的一道经典题](https://segmentfault.com/a/1190000004474693)
+- [一道颇有难度的JavaScript题](https://segmentfault.com/a/1190000007979730)
+- [深入剖析 JavaScript 的深复制](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
+- [从如何停掉 Promise 链说起](https://github.com/xieranmaya/blog/issues/5)
+- [函数节流与函数防抖](http://justclear.gitlab.io/throttle-and-debounce/)
+- [Is JavaScript a pass-by-reference or pass-by-value language?](http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language)
+- [JavaScript Just-in-time (JIT) 工作原理](https://zhuanlan.zhihu.com/p/25669120?refer=qianduandaha)
+- [关于异步function串行的实现](https://segmentfault.com/a/1190000005590411)
+- [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
+- [前端路由的两种实现原理](https://segmentfault.com/a/1190000007238999)
+- [JS 的整型你懂了吗？](https://segmentfault.com/a/1190000002608050)
+- [Variadic curried sum function](http://stackoverflow.com/questions/5832891/variadic-curried-sum-function)
+- [Javascript code trick :What's the value of foo.x](http://stackoverflow.com/questions/32342809/javascript-code-trick-whats-the-value-of-foo-x)
+- [Making touch scrolling fast by default](https://developers.google.com/web/updates/2017/01/scrolling-intervention)
+- [Why is isNaN(null) == false in JS?](http://stackoverflow.com/questions/115548/why-is-isnannull-false-in-js)
+- [How to trigger a file download when clicking an HTML button or JavaScript](https://stackoverflow.com/questions/11620698/how-to-trigger-a-file-download-when-clicking-an-html-button-or-javascript)
+- [JavaScript template engine in just 20 lines](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
+
+#### React
+- [Why do we need middleware for async flow in Redux?](https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
+- [Redux thunk: return promise from dispatched action](https://stackoverflow.com/questions/38329921/redux-thunk-return-promise-from-dispatched-action?rq=1)
+- [How to pass props to {this.props.children}](https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children)
+- [Redux 入门教程（二）：中间件与异步操作](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_two_async_operations.html)
+- [H5、React Native、Native应用对比分析](https://my.oschina.net/vczero/blog/597980?fromerr=z3X6XzCp)
+- [React 常见的面试题](http://johannlai.com/2017/04/11/React-Interview-Questions/)
+- [React 的生命周期的使用场景](http://johannlai.com/2017/04/11/React%20Lifecycle%20Methods/)
+- [setState() inside of componentDidUpdate()](http://stackoverflow.com/questions/30528348/setstate-inside-of-componentdidupdate)
+- [React.js in 40 lines of code](https://github.com/huzidaha/reactjs-in-40/blob/master/index.html)
+- [simplest-redux-example](https://github.com/jackielii/simplest-redux-example)
+- [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)
+
+#### Node.js
+- [Upload files to server using Node.js and Multer package](https://evdokimovm.github.io/javascript/nodejs/expressjs/multer/2016/11/03/Upload-files-to-server-using-NodeJS-and-Multer-package-filter-upload-files-by-extension.html)
+- [Express 框架中对错误的统一处理](https://itbilu.com/nodejs/npm/41ctyLryW.html)
+- [Mac OSX 完整卸载Nodejs](http://10176523.cn/archives/50)
+- [The Node.js Request Module](http://stackabuse.com/the-node-js-request-module/)
+
+#### HTML5
+- [Alternative for File() constructor for safari](https://stackoverflow.com/questions/33821631/alternative-for-file-constructor-for-safari)
+- [How to convert Blob to File in JavaScript](https://stackoverflow.com/questions/27159179/how-to-convert-blob-to-file-in-javascript)
+- [Convert blob to file](https://stackoverflow.com/questions/27553617/convert-blob-to-file)
+- [Creating a Blob from a base64 string in JavaScript](https://stackoverflow.com/questions/16245767/creating-a-blob-from-a-base64-string-in-javascript)
+- [Uploading multiple files at once with Ajax and XHR2](https://www.raymondcamden.com/2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2)
+- [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+- [两个viewport的故事（第一部分）](http://weizhifeng.net/viewports.html)
+- [两个viewport的故事（第二部分）](http://weizhifeng.net/viewports2.html)
+- [Meta viewport](http://www.quirksmode.org/mobile/metaviewport/)
+- [深入研究HTML5实现图片压缩上传](http://www.cnblogs.com/hutuzhu/p/5265023.html)
+- [使用HTML5 FormData轻松完成Ajax表单提交](https://www.w3ctech.com/topic/60)
+- [基于HTML5的可预览多图片Ajax上传](http://www.zhangxinxu.com/wordpress/2011/09/%E5%9F%BA%E4%BA%8Ehtml5%E7%9A%84%E5%8F%AF%E9%A2%84%E8%A7%88%E5%A4%9A%E5%9B%BE%E7%89%87ajax%E4%B8%8A%E4%BC%A0/)
+- [如何自定义< input type = “file”>？](https://gxnotes.com/article/30462.html)
+- [Can I hide the HTML5 number input’s spin box?](http://stackoverflow.com/questions/3790935/can-i-hide-the-HTML5-number-input-s-spin-box)
+- [How to print React component on click of a button?](https://stackoverflow.com/questions/30135387/how-to-print-react-component-on-click-of-a-button)
+- [Disabling browser print options (headers, footers, margins) from page?](https://stackoverflow.com/questions/1960939/disabling-browser-print-options-headers-footers-margins-from-page)
+- [了解HTML/HTML5中的download属性](http://www.zhangxinxu.com/wordpress/2016/04/know-about-html-download-attribute/)
+- [canvas.toDataURL() SecurityError](https://stackoverflow.com/questions/20424279/canvas-todataurl-securityerror)
+
+#### CSS3
+- [移动端高清、多屏适配方案](http://www.aliued.com/?p=3166)
+- [使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17)
+- [How to prevent column break within an element?](http://stackoverflow.com/questions/7785374/how-to-prevent-column-break-within-an-element)
+- [break-inside | CSS-Tricks](https://css-tricks.com/almanac/properties/b/break-inside/)
+- [text-align:justify两端对齐有个坑](http://chayangge.com/2016/01/18/text-align-justify%E6%9C%80%E5%90%8E%E4%B8%80%E8%A1%8C%E6%9C%89%E4%B8%AA%E5%9D%91/)
+- [去除移动端点击事件出现的背景框 (tap-highlight-color)](http://blog.ipsfan.com/2820.html)
+- [::placeholder](https://css-tricks.com/almanac/selectors/p/placeholder/)
+- [浅谈 CSS Sprites 雪碧图应用](https://zhuanlan.zhihu.com/p/23873229)
+- [揭示不为人知的CSS](http://www.zcfy.cc/article/the-invisible-parts-of-css-middot-madebymike-3147.html)
+
+#### Tools
+- [使用 json-server 来创建一个模拟 API](https://code.tutsplus.com/zh-hans/tutorials/fake-rest-api-up-and-running-using-json-server--cms-27871)
+- [Ignore files that have already been committed to a Git repository](https://stackoverflow.com/questions/1139762/ignore-files-that-have-already-been-committed-to-a-git-repository)
+- [Gulp 中异步任务的处理](http://www.hubwiz.com/exchange/56fa170692e7014f1931840d)
+- [Using self-signed SSL certificates with Postman](http://blog.getpostman.com/2014/01/28/using-self-signed-certificates-with-postman/)
+- [ssh Host configuration](http://christopherdecoster.com/posts/ssh-host-config/)
+
+#### 网络协议
+- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+- [互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
+- [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+- [深入解析HTTPS](http://www.jianshu.com/p/6b19adb84150)
+- [How does SSL/TLS work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
+- [WebSocket 是什么原理？](https://www.zhihu.com/question/20215561)
+- [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+- [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+#### 浏览器
+- [HTTP 缓存](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)
+- [浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [What is the maximum length of a URL in different browsers?](http://stackoverflow.com/questions/417142/what-is-the-maximum-length-of-a-url-in-different-browsers)
+
+#### 其他
+- [使用阿里云Docker镜像加速](http://warjiang.github.io/devcat/2016/11/28/%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91Docker%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F/?utm_source=tuicool&utm_medium=referral)
+- [Nginx 配置 HTTPS 服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
+- [Adb install failure: INSTALL_CANCELED_BY_USER](http://stackoverflow.com/questions/37641670/adb-install-failure-install-canceled-by-user)
+- [Making Use of Settings.json](https://themeteorchef.com/tutorials/making-use-of-settings-json#tmc-using-settingsjson)
+- [Is there a way to get Bing's photo of the day?](http://stackoverflow.com/questions/10639914/is-there-a-way-to-get-bings-photo-of-the-day)
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+- [小程序技术方案探讨](http://blog.cnbang.net/tech/3486/?from=singlemessage)
+- [告诉你什么是即时编译器JIT](https://mp.weixin.qq.com/s/PpUoXHA6uuC7R6PCBTgqzg)
+- [3 种 Web 会话管理的方式](https://mp.weixin.qq.com/s/oCc_Rp-PMDGAvJ31CWyp_Q)
