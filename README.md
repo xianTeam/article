@@ -1,4 +1,4 @@
-# Feed
+# Articles
 这里存放着笔者读过的一些优秀的文章和答案
 
 #### JavaScript
